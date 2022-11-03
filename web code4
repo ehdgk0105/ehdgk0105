@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Gallery</title>
+    <link href="./style 3.css" rel="stylesheet">
+    
+    
+        <head>
+            <body><body style="overflow-x: hidden"></body>
+                 
+                <div id="wrap">
+                <header>
+                   <nav>
+                    <span><a href='web code2.html'>Music</a></span> &nbsp;
+                    <span>Gallery</span> &nbsp;
+                    <span>Live</span> &nbsp;
+                    <span>Tour</span> &nbsp; 
+                    <span>Album</span>
+                    <div class='rec'><a href='web code.html'><img src="img/rec.png"></a></div>
+                    <div class='rec2'><img src="img/rec2.png"></div>
